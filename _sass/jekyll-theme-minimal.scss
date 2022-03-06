@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#8a7b7b;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#6ecddb;
 }
 
 a {
@@ -40,19 +40,19 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#b98126;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#876f9e;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#b98126;
 }
 
 .wrapper {
@@ -74,7 +74,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #aca0e8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -161,7 +161,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color:#b98126;
   font-weight:bold;
 }
 
