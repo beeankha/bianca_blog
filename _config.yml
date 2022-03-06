@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+logo: /images/thefool.jpeg
+title: Bianca's Blog
+description: A blog full of random things.
+
+google_analytics: UA-21622927-2
